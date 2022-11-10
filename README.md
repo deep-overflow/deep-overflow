@@ -1,20 +1,22 @@
 # Hi! I'm Seongchan Kim 👋
 
-I'm deep learning researcher and developer.
-
-## 현재
-- Junior @ Computer Science & Enginnering, Korea University
-- Research Intern @ CVLAB, Korea University
-- AIKU AI Society
+## I'm
+Deep Learning Researcher and Developer.\
+Junior @ Computer 💻 Science 🔬 & Enginnering ⚙️ , Korea University 🏛️.\
+Research Intern @ CVLAB, Korea University 🏛️.\
+Leader @ AIKU, Artificial Intelligence in Korea University.
 
 ## I'm interested in
 - Computer Science
 - Deep Learning
 - Computer Vision
+  - NeRF (Neural Radiance Fields)
+  - 3D representation
 
 ## Goal
-- research goal
-- 
+`
+Make the world safer from various risks.
+`
 
 ## Tech Stacks
 - language
