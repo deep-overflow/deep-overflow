@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Seongchan Kim (김성찬)
 
 🎥 **Video Generation & Multimodal Large Language Models (MLLM)**  
-🧑‍💻 Integrated M.S./Ph.D. @ [KAIST AI / GSAI](https://gsai.kaist.ac.kr/)
+🧑‍💻 Integrated M.S./Ph.D. @[CVLAB](https://cvlab.kaist.ac.kr/) in [KAIST AI](https://gsai.kaist.ac.kr/)
 
 I design **next-generation video generation models** and build **evaluation frameworks** for understanding and improving video diffusion models.  
 Currently exploring **interaction-aware video generation** and **multimodal understanding of videos**.
@@ -42,11 +42,11 @@ Currently exploring **interaction-aware video generation** and **multimodal unde
 ## 🌎 Links
 
 - 🌐 [Google Scholar](https://scholar.google.com/citations?user=2DpCfdcAAAAJ&hl=en)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seongchan-kim-776b88267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🐦 [X (Twitter)](https://x.com/seongchank56299?t=FNXqUvsW_oyvnPmhBqCNrg&s=09)  
-<!-- - 🏠 [Personal Website / Project Page](https://cvlab-kaist.github.io/) -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/seongchan-kim-776b88267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🐦 [X (Twitter)](https://x.com/seongchank56299?t=FNXqUvsW_oyvnPmhBqCNrg&s=09)
+- 🏠 [Personal Website](https://deep-overflow.github.io/)
 
-> ✨ *“Building smarter video generation models and evaluation frameworks.”*
+> ✨ *“Understanding the World through Video and Multimodalities.”*
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
