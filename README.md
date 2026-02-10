@@ -1,18 +1,22 @@
 # 👋 Hi, I'm Seongchan Kim (김성찬)
 
-🎥 **Video Generation & Multimodal Large Language Models (MLLM)**  
+🤖 **Vision-Language-Action (VLA) & World Models **
 🧑‍💻 Integrated M.S./Ph.D. @[CVLAB](https://cvlab.kaist.ac.kr/) in [KAIST AI](https://gsai.kaist.ac.kr/)
 
-I design **next-generation video generation models** and build **evaluation frameworks** for understanding and improving video diffusion models.  
-Currently exploring **interaction-aware video generation** and **multimodal understanding of videos**.
+I research how models can predict and model physical interactions between agents (robots/humans) and the world.
+
+Currently focused on building Vision-Language-Action (VLA) models and interested in World Models to understand the fundamental laws of interaction.
 
 ---
 
 ## 🧪 Research Highlights
+- 🌍 World Models & Physical Interaction — Modeling and predicting how the world changes through agent-environment interactions.
 
-- 🎬 **Video Generation & Evaluation** — Improving interaction fidelity and multi-instance understanding in video diffusion transformers  
-- 🧩 **Video Object Segmentation (VOS)** — Multi-granularity & referring VOS with language and temporal reasoning  
-- 🧠 **MLLM for Video** — Leveraging multimodal large language models to better understand and describe video content
+- 🦾 Vision-Language-Action (VLA) — Developing embodied AI that understands multi-modal instructions and translates them into physical actions.
+
+- 🎬 Interaction-Aware Generation — Leveraging generative models to simulate realistic physical dynamics and multi-instance interactions.
+
+- 🧠 Video Understanding — Utilizing MLLMs for deep temporal reasoning and understanding complex object relationships in video.
 
 ---
 
