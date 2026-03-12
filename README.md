@@ -31,15 +31,15 @@ Currently focused on building Vision-Language-Action (VLA) models and interested
   [🔗 Project Page](https://cvlab-kaist.github.io/MUG-VOS/)
 
 - **Referring Video Object Segmentation via Language Aligned Track Selection**  
-  *arXiv 2025*  
+  *arXiv 2025*
   [🔗 Project Page](https://cvlab-kaist.github.io/SOLA/)
 
 - **InterRVOS: Interaction-aware Referring Video Object Segmentation**  
-  *Under review at AAAI 2026*  
+  *CVPR 2026*  
   [🔗 Project Page](https://cvlab-kaist.github.io/InterRVOS/)
 
 - **MATRIX: Mask Track Alignment for Interaction-Aware Video Generation**  
-  *Under review at ICLR 2026*
+  *ICLR 2026*
 
 ---
 
