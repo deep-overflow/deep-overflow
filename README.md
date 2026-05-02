@@ -1,6 +1,6 @@
  👋 Hi, I'm Seongchan Kim (김성찬)
 
-🤖 **Vision-Language-Action (VLA) & World Models **
+🤖 **Vision-Language-Action (VLA) & World Models**
 🧑‍💻 Integrated M.S./Ph.D. @[CVLAB](https://cvlab.kaist.ac.kr/) in [KAIST AI](https://gsai.kaist.ac.kr/)
 
 I research how models can understand and generate physical interactions in dynamic visual scenes. My work spans interaction-aware video understanding and generation, with a longer-term focus on building agents that actively perceive and act in the real world — grounded in world models, vision-language-action frameworks, and active perception.
