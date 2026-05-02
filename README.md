@@ -1,22 +1,18 @@
-# 👋 Hi, I'm Seongchan Kim (김성찬)
+ 👋 Hi, I'm Seongchan Kim (김성찬)
 
 🤖 **Vision-Language-Action (VLA) & World Models **
 🧑‍💻 Integrated M.S./Ph.D. @[CVLAB](https://cvlab.kaist.ac.kr/) in [KAIST AI](https://gsai.kaist.ac.kr/)
 
-I research how models can predict and model physical interactions between agents (robots/humans) and the world.
-
-Currently focused on building Vision-Language-Action (VLA) models and interested in World Models to understand the fundamental laws of interaction.
+I research how models can understand and generate physical interactions in dynamic visual scenes. My work spans interaction-aware video understanding and generation, with a longer-term focus on building agents that actively perceive and act in the real world — grounded in world models, vision-language-action frameworks, and active perception.
 
 ---
 
 ## 🧪 Research Highlights
-- 🌍 World Models & Physical Interaction — Modeling and predicting how the world changes through agent-environment interactions.
+- 🎬 Interaction-Aware Video Understanding & Generation — Studying how models perceive, segment, and generate dynamic interactions between objects and agents in video scenes.
 
-- 🦾 Vision-Language-Action (VLA) — Developing embodied AI that understands multi-modal instructions and translates them into physical actions.
+- 🦾 Physical Scene Reasoning & Embodied Agents — Understanding the causal dynamics and structured interactions that govern physical environments, and developing vision-language-action (VLA) systems capable of active perception and purposive engagement with the real world.
 
-- 🎬 Interaction-Aware Generation — Leveraging generative models to simulate realistic physical dynamics and multi-instance interactions.
-
-- 🧠 Video Understanding — Utilizing MLLMs for deep temporal reasoning and understanding complex object relationships in video.
+- 🌍 World Models — Building internal representations that capture the underlying structure of the world, enabling agents to reason about future states and support decision-making across complex real-world scenarios.
 
 ---
 
