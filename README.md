@@ -22,24 +22,24 @@ Currently focused on building Vision-Language-Action (VLA) models and interested
 
 ## 📝 Publications
 
-- **Self-Evolving Neural Radiance Fields**  
-  *Wild3D Workshop @ ICCV 2025*  
-  [🔗 Project Page](https://cvlab-kaist.github.io/SE-NeRF/)
-
-- **MUG-VOS: Multi-Granularity Video Object Segmentation**  
-  *AAAI 2025*  
-  [🔗 Project Page](https://cvlab-kaist.github.io/MUG-VOS/)
-
-- **Referring Video Object Segmentation via Language Aligned Track Selection**  
-  *arXiv 2025*
-  [🔗 Project Page](https://cvlab-kaist.github.io/SOLA/)
+- **MATRIX: Mask Track Alignment for Interaction-Aware Video Generation**  
+  *ICLR 2026*
 
 - **InterRVOS: Interaction-aware Referring Video Object Segmentation**  
   *CVPR 2026*  
   [🔗 Project Page](https://cvlab-kaist.github.io/InterRVOS/)
 
-- **MATRIX: Mask Track Alignment for Interaction-Aware Video Generation**  
-  *ICLR 2026*
+- **Referring Video Object Segmentation via Language Aligned Track Selection**  
+  *arXiv 2025*
+  [🔗 Project Page](https://cvlab-kaist.github.io/SOLA/)
+
+- **MUG-VOS: Multi-Granularity Video Object Segmentation**  
+  *AAAI 2025*  
+  [🔗 Project Page](https://cvlab-kaist.github.io/MUG-VOS/)
+
+- **Self-Evolving Neural Radiance Fields**  
+  *Wild3D Workshop @ ICCV 2025*  
+  [🔗 Project Page](https://cvlab-kaist.github.io/SE-NeRF/)
 
 ---
 
