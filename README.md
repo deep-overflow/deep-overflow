@@ -1,4 +1,4 @@
- 👋 Hi, I'm Seongchan Kim (김성찬)
+# 👋 Hi, I'm Seongchan Kim (김성찬)
 
 🤖 **Vision-Language-Action (VLA) & World Models**
 🧑‍💻 Integrated M.S./Ph.D. @[CVLAB](https://cvlab.kaist.ac.kr/) in [KAIST AI](https://gsai.kaist.ac.kr/)
